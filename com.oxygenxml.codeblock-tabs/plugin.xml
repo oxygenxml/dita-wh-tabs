@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin id="com.oxygenxml.tabbed-codeblock">
+  <require plugin="com.oxygenxml.webhelp.responsive"/>
+  <feature extension="package.support.name" value="Oxygen XML Editor Support"/>
+  <feature extension="package.support.email" value="support@oxygenxml.com"/>
+  <feature extension="package.version" value="21.1"/>
+  
+  <feature extension="com.oxygenxml.webhelp.xsl.dita2webhelp" file="tabbed-codeblock.xsl"/>  
+  
+</plugin>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="untitled1">
+    <title>Logging in to the REST API</title>
+    <body>
+        <p>You can use following code snippet to log in to the REST API</p>
+        <p>
+            <fig outputclass="tabbed-codeblock" id="fig_ch1_qgx_3jb">
+                <codeblock outputclass="language-javascript">http.request('/login', {
+  method: 'POST',
+  headers: {'Authorization', 'Bearer ' + personal_access_token}});</codeblock>
+                <codeblock outputclass="language-bourne">curl -X POST -H "Authorization: Bearer $PERSONAL_ACCESS_TOKEN" \
+https://oxygenxml.com/login</codeblock>
+            </fig>
+        </p>
+    </body>
+</topic>
