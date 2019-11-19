@@ -20,6 +20,10 @@ http://oxygenxml.com/login</codeblock>
 </fig>
 ```
 
+## Result
+
+![Sample Screenshot](img/screenshot.png "Sample Screenshot")
+
 ## Copyright and License
 
 Copyright 2019 Syncro Soft SRL.
