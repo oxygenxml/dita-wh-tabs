@@ -1,5 +1,5 @@
 # dita-wh-tabs
-DITA Open Toolkit plugin which enhances the Oxygen WebHelp responsive output to present codeblocks in multiple programming languages or DITA task steps as separate tabs
+DITA Open Toolkit plugin which enhances the Oxygen WebHelp responsive output to present codeblocks or DITA task steps as separate tabs.
 
 ## Installation
 
