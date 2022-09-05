@@ -24,7 +24,7 @@ http://oxygenxml.com/login</codeblock>
 
 ![Sample Screenshot](img/screenshot.png "Sample Screenshot")
 
-## Set the parameter **tabs.for.steps** to **true** to also present DITA task steps in separate tabs.
+### Set the parameter "**tabs.for.steps**" to value "**true**" to also present DITA task steps in separate tabs.
 
 ## Copyright and License
 
