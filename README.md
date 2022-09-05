@@ -1,5 +1,5 @@
-# dita-wh-codeblock-tabs
-DITA Open Toolkit plugin which enhances the Oxygen WebHelp responsive output to present codeblocks in multiple programming languages in tabs
+# dita-wh-tabs
+DITA Open Toolkit plugin which enhances the Oxygen WebHelp responsive output to present codeblocks in multiple programming languages or DITA task steps as separate tabs
 
 ## Installation
 
@@ -24,8 +24,10 @@ http://oxygenxml.com/login</codeblock>
 
 ![Sample Screenshot](img/screenshot.png "Sample Screenshot")
 
+## Set the parameter **tabs.for.steps** to **true** to also present DITA task steps in separate tabs.
+
 ## Copyright and License
 
-Copyright 2019 Syncro Soft SRL.
+Copyright 2022 Syncro Soft SRL.
 
 This project is licensed under [Apache License 2.0](https://github.com/oxygenxml/dita-asciidoc/blob/master/LICENSE)
