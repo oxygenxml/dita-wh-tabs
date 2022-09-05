@@ -29,7 +29,13 @@
             <xsl:with-param name="position" select="position()"/>
             <xsl:with-param name="context" select="."/>
           </xsl:call-template>
-          <xsl:apply-templates select="."/>
+          <xsl:variable name="content">
+            <xsl:apply-templates select="."/>
+          </xsl:variable>
+          <div>
+            <xsl:copy-of select="$content/*/@*"/>
+            <xsl:copy-of select="$content/*/node()"/>
+          </div>
         </div>
       </xsl:for-each>
     </div>
