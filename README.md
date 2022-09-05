@@ -3,7 +3,7 @@ DITA Open Toolkit plugin which enhances the Oxygen WebHelp responsive output to 
 
 ## Installation
 
-Install the **com.oxygenxml.codeblock-tabs** plugin in the DITA Open Toolkit: 
+Install the **com.oxygenxml.wh.tabs** plugin in the DITA Open Toolkit: 
 [https://www.dita-ot.org/dev/topics/plugins-installing.html](https://www.dita-ot.org/dev/topics/plugins-installing.html)
 
 A sample DITA Map that contains can be found in the "samples" folder.
