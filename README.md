@@ -5,7 +5,7 @@ DITA Open Toolkit plugin which enhances the Oxygen WebHelp responsive output to 
 
 Install the **com.oxygenxml.wh.tabs** plugin in the DITA Open Toolkit: 
 [https://www.oxygenxml.com/doc/ug-editor/topics/dita-ot-install-plugin.html](Oxygen bundled DITA OT installation)
-[https://www.dita-ot.org/dev/topics/plugins-installing.html](DITA OT command line installation)
+[DITA OT command line installation](https://www.dita-ot.org/dev/topics/plugins-installing.html)
 
 A sample DITA Map that contains can be found in the "samples" folder.
 
